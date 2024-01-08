@@ -2,7 +2,9 @@
 
 A simple template ready for Parcel.js built with React.js
 
-All credit goes to Bob Ziroll with his tutorial on [freecodecamp](https://www.freecodecamp.org/news/how-to-up-a-react-app-with-parcel/).
+Inspired from Bob Ziroll with his tutorial on [freecodecamp](https://www.freecodecamp.org/news/how-to-up-a-react-app-with-parcel/).
+
+Adding Bootstrap styles and basic components including originate Bootstrap Navbar, Card and a self-made footer ready to use.
 
 ## Getting Started
 
