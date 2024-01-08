@@ -18,11 +18,11 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/LucasSuL/my-react-parcel-bootstrap-template.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo
+   cd my-react-parcel-bootstrap-template
    
 3. **Install dependencies:**
    ```bash
@@ -63,8 +63,3 @@ Make sure you have Node.js and npm installed on your machine.
 This project is licensed under the MIT License.
 
 Feel free to customize it further based on your project's specific details and needs.
-Make sure to replace placeholders like `your-username` and `your-repo` with your actual GitHub username and repository name. Customize the sections, such as "Getting Started" and "Technologies Used," to provide more details about your project. Additionally, include any specific setup or configuration instructions that might be necessary for your project.
-
-
-
-
