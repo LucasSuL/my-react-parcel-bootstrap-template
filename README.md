@@ -31,7 +31,6 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    npm install
    ```
-   This would take some time.
    
 4. **Start it up!**
    Start the development server:
