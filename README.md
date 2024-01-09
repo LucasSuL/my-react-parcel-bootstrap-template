@@ -2,6 +2,9 @@
 
 This template provides a structured starting point for a React project using the Parcel bundler and Bootstrap 5 for styling. The initial setup is inspired by Bob Ziroll's tutorial on [freecodecamp](https://www.freecodecamp.org/news/how-to-up-a-react-app-with-parcel/).
 
+## Preview
+![localhost_1234_ (1)](https://github.com/LucasSuL/my-react-parcel-bootstrap-template/assets/109936384/f59f4e71-7fde-42ee-9e10-6984fd235084)
+
 ## Features
 - Bootstrap 5 styles and components integrated
 - Utilizes Bootstrap's official responsive NavBar
